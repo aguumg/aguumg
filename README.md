@@ -1,10 +1,10 @@
 ### Hi! I am Agustín :grin:
 
-I am a mathematician from the University of Buenos Aires, FCEN, and I am deeply passionate about my work. I am interested in quantitative research and particularly in applications to the cryptocurrency world. I am currently completing my PhD on the topic of Non-linear problems from the study of financial models. I have excellent report writing skills and a good understanding of data-science and machine learning.
+I am a mathematician from the University of Buenos Aires, FCEN, and I am deeply passionate about my work. I am interested in quantitative research and particularly in applications to the cryptocurrency world. I am currently completing my PhD on the topic of Non-linear problems from the study of financial models. I have excellent report writing skills and a good understanding of data-science, machine learning and smart contracts.
 
 :books:|Mathematician. PhD candidate, Mathematical Finance.
 
-:chart_with_upwards_trend:|Quant.
+:chart_with_upwards_trend:|Quant Analyst.
 
 :bar_chart:|DeFi Researcher.
 
