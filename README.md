@@ -6,7 +6,7 @@ I am a mathematician from the University of Buenos Aires, FCEN, and I am deeply 
 
 :chart_with_upwards_trend:|Quant.
 
-:bar_chart:|Data Scientist.
+:bar_chart:|DeFi Researcher.
 
 :briefcase:|Entrepreneur.
 
